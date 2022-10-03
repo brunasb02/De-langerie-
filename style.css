@@ -1,4 +1,23 @@
+<<<<<<< HEAD
 body{
+    background-color: black
+    }
+    
+    Estilizar o título principal do seu site:
+     h1{
+    color: ;
+    font-family: ;
+    background: ;
+    }
+    
+    Estilizar os parágrafos:
+    p{
+    color: ;
+    font-family: ;
+    font-size: ;
+    background: ;
+    }
+=======body{
     background-color: 
     }
     
@@ -16,3 +35,4 @@ body{
     font-size: ;
     background: ;
     }
+>>>>>>> a4dd6201d87da577075bc2bc525a3cd86b799d69

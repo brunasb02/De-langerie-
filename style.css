@@ -1,38 +1,16 @@
-<<<<<<< HEAD
 body{
-    background-color: black
+    background-color:pink;
     }
     
-    Estilizar o título principal do seu site:
      h1{
-    color: ;
-    font-family: ;
+    color: black;
+    font-size:35px ;
     background: ;
     }
     
-    Estilizar os parágrafos:
     p{
-    color: ;
+    color:papayawhip ;
     font-family: ;
-    font-size: ;
+    font-size:20px;
     background: ;
     }
-=======body{
-    background-color: 
-    }
-    
-    Estilizar o título principal do seu site:
-     h1{
-    color: ;
-    font-family: ;
-    background: ;
-    }
-    
-    Estilizar os parágrafos:
-    p{
-    color: ;
-    font-family: ;
-    font-size: ;
-    background: ;
-    }
->>>>>>> a4dd6201d87da577075bc2bc525a3cd86b799d69

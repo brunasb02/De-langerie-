@@ -3,14 +3,16 @@ body{
     }
     
      h1{
+        text-align: center;
     color: indianred;
     font-size:35px ;
     background: ;
     }
     
     p{
+        text-align: center;
     color:black ;
     font-family: ;
-    font-size:20px;
+    font-size:9px;
     background: ;
     }
